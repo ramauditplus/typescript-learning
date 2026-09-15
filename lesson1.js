@@ -1,0 +1,12 @@
+let name = "rama";
+let address = "thoothukudi";
+let age = 30;
+let isDeveloper = true;
+let salary = 500000;
+let language = ["Typescript", "Rust", "Angular"];
+console.log(isDeveloper);
+console.log(name);
+console.log(address);
+console.log(age);
+console.log(language);
+export {};
